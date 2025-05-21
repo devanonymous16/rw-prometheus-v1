@@ -1,7 +1,3 @@
-Perfeito! Aqui está o conteúdo **completo e limpo** do `README.md` em **formato único e correto** — agora é só copiar e colar **sem erro de indentação, espaçamento ou quebra de formatação**.
-
----
-
 ````markdown
 # 🔍 Railway + Prometheus + PgBouncer Exporter – Observabilidade Completa
 
