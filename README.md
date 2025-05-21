@@ -153,10 +153,3 @@ Infra estruturada com apoio do Arcanum Cyber Bot (OpenAI)
 MIT — use, quebre, melhore, versiona.
 
 ```
-
----
-
-Se quiser que eu empacote isso como `.md` pronto pra commit ou inclua badges e screenshot de dashboard depois, só pedir.
-
-Agora você tem documentação padrão gold 🔥📚
-```
